@@ -1,1 +1,1 @@
-# ZetaGapEnsemble
+# Zeta Gap Ensemble (ZGE)
