@@ -59,11 +59,3 @@ MIT License © Abhinaw Singh
 Data from Odlyzko's zeta tables
 
 **“Let the primes be mysterious — but the zeros, now they speak arithmetic.”**
-
-
-
-
-
-
-
-Ask ChatGPT
